@@ -1,6 +1,6 @@
 # Duplicate post remover for groups and channels
 
-> **Warning**
+> # **Warning**
 >
 > ### Use it on your **own risk** .It can **delete post** so **be careful**
 
