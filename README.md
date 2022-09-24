@@ -8,10 +8,16 @@
 
 `pip3 install -r requirements.txt`
 
-## use add_session.py to login to your account then use main.py to run the bot
+## use add_session.py to login to your account
 
 `python3 add_session.py`
 
+## Run the bot
+
+`python3 main.py`
+
 ## Add the same account in the group and give it permission to delete message
 
-## run this command in the group to delete the duplicate post
+## use this command in the group to delete the duplicate post
+
+`/start`
