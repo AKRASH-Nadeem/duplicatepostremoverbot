@@ -1,5 +1,6 @@
 # Duplicate post remover for groups and channels
 
+> **Warning**
 > :warning: Use it on your **own risk**.It can **delete post** so **be careful**
 
 ## First install requirements.txt
